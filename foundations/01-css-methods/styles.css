@@ -1,9 +1,9 @@
 div {
     color: white;
     background-color: red;
-    font-size: 32;
+    font-size: 32px;
     text-align: center;
-    text-emphasis-style: bold;
-    
+    font-weight: bold;
 
 }
+
